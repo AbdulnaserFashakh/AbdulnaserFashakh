@@ -1,25 +1,103 @@
-# Hi, I’m Dr. Abdulnaser Fashakh 👋
+# Hi, I’m  Dr. Abdulnaser M. Fashakh
 
-Artificial Intelligence Researcher & Software Engineer specialized in Advanced NLP, Deep Learning architectures, and Big Data Analytics. 
+PhD in Electrical & Computer Engineering  
+AI Researcher | LLMs | AI Agents | Cybersecurity | Natural Language Processing
 
-## 🧠 Research Focus & Expertise
-* **Architectural Optimization:** Engineering context-aware, parallel Multi-Task / Multi-Output Deep Learning frameworks (e.g., Bidirectional LSTM systems).
-* **Advanced Text Analytics:** Hybrid sentiment analysis models, conversational text preprocessing pipeline design, and data balancing architectures (Stratified Sampling).
-* **Big Data & Web Mining:** Automated data collection via live streaming pipelines (Tweepy API) and high-dimensional feature engineering.
-* **Algorithmic Fairness & Safety:** Designing rule-based safety layers to eliminate false positives in production environments.
+I am a researcher and academic working at the intersection of Artificial Intelligence, Natural Language Processing, Cybersecurity, and Large Language Models.
 
-## 🔬 Academic Achievements & Publications
-* **Ph.D. Graduate** in Electrical and Computer Engineering.
-* **Published Author** in peer-reviewed, international high-impact journals (**Elsevier Q1** index).
-* **Open Science Contributor:** Hosting reproducible code pipelines on GitHub and public datasets on Kaggle to support the global research community.
+My current research direction focuses on developing, evaluating, and securing intelligent AI systems, with particular interest in AI Agents, LLM Evaluation, and trustworthy AI applications.
 
-## 💞️ Collaboration Interests
-I am looking to collaborate on advanced industrial R&D projects, postdoctoral research fellowships, and the production-level deployment of deep learning systems in academic and corporate security infrastructures.
+## Research Focus
 
-## 📫 How to Reach Me
-* **Official Website:** [abdulnaser267832580.wordpress.com](https://abdulnaser267832580.wordpress.com/)
-* **Code Repository:** All core dissertation execution pipelines are serialized and maintained within this verified GitHub space.
-<!---
+- Large Language Models (LLMs)
+- AI Agents and Agentic Systems
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation and Benchmarking
+- AI and Cybersecurity
+- Natural Language Processing
+- Sentiment Analysis
+- Cyberbullying Detection
+- Machine Learning and Deep Learning
+
+## Current Research Direction
+
+I am currently expanding my research toward:
+
+AI Agents + Cybersecurity + LLM Evaluation
+
+My goal is to investigate how autonomous AI systems can be evaluated, secured, and applied to real-world research and cybersecurity problems.
+
+## Current Projects
+
+### AI Research Roadmap
+
+A practical research and development roadmap covering:
+
+1. LLM Foundations
+2. RAG Systems
+3. AI Agents
+4. LLM Security
+5. AI Benchmarking
+6. Research Publication and Open-Source Projects
+
+Upcoming projects will include:
+
+- PDF Research Assistant with Citations
+- Literature Review AI Agent
+- RAG-based Research System
+- LLM Security Testbed
+- AI Agent Security Evaluation
+- LLM Benchmarking Framework
+
+## Selected Research
+
+### Cyberbullying Unveiled
+
+Using Artificial Intelligence and Sentiment Analysis to investigate cyberbullying and its psychological impact on vulnerable groups.
+
+Published in:
+Egyptian Informatics Journal — Elsevier
+
+DOI:
+https://doi.org/10.1016/j.eij.2025.100856
+
+## Research Profiles
+
+- ORCID  
+  https://orcid.org/0000-0002-4547-5937
+
+- Google Scholar  
+  https://scholar.google.com/citations?user=gs9B-HkAAAAJ
+
+- Scopus Author ID  
+  57213172959
+
+- IEEE Xplore Author ID  
+  37089835599
+
+## Technical Interests
+
+Python  
+Machine Learning  
+Deep Learning  
+LLMs  
+Transformers  
+RAG  
+AI Agents  
+NLP  
+Cybersecurity  
+Research Evaluation
+
+## 2026–2027 Goal
+
+Build a focused research portfolio around:
+
+AI Agents  
+LLM Security  
+LLM Evaluation  
+Applied Artificial Intelligence
+
+with reproducible research, open-source implementations, benchmarking studies, and peer-reviewed publications.
 AbdulnaserFashakh/AbdulnaserFashakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

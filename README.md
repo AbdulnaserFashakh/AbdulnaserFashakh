@@ -72,11 +72,11 @@ https://doi.org/10.1016/j.eij.2025.100856
  - Web of Science  
   https://www.webofscience.com/wos/author/record/AAE-1891-2020
 
-- Scopus Author ID  
-  57213172959
+- Scopus  
+  https://www.scopus.com/authid/detail.uri?authorId=57213172959
 
-- IEEE Xplore Author ID  
-  37089835599
+- IEEE Xplore  
+  https://ieeexplore.ieee.org/author/37089835599
 
 ## Technical Interests
 
